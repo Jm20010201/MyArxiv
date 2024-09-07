@@ -32,11 +32,6 @@ limit = 150
 category = "cs.AI"
 title = "Artificial Intelligence"
 
-[[sources]]
-limit = 150
-category = "cs.AI"
-title = "Artificial Intelligence"
-
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
 highlight_author = "scripts/highlight_author.rhai"
