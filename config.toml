@@ -22,25 +22,7 @@ limit = 300
 category = "cs.CV"
 title = "Computer Vision and Pattern Recognition"
 
-[[sources]]
-limit = 300
-category = "cs.IR"
-title = "Information Retrieval"
 
-[[sources]]
-limit = 300
-category = "cs.LG"
-title = "Machine Learning"
-
-[[sources]]
-limit = 300
-category = "cs.MM"
-title = "Multimedia"
-
-[[sources]]
-limit = 300
-category = "cs.AI"
-title = "Artificial Intelligence"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
